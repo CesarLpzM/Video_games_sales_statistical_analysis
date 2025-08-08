@@ -1,7 +1,7 @@
 # Video games sales statistical analysis
 
 ## Problem solving
-Analyzed data from an online video game store to identify trends, patterns, and actionable insights. Supported the marketing team in optimizing campaign strategies by performing statistical analysis
+I analyzed data from an online video game store to identify trends, patterns, and actionable insights. Then I supported the marketing team in optimizing campaign strategies by performing statistical analysis.
 
 ## Tech Stack
 - *Languages:* python 
