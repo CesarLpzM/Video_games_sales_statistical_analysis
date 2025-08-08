@@ -1,4 +1,4 @@
-# Statistical_data_analysis_project
+# Video games sales statistical analysis
 
 ## Problem solving
 Analyzed data from an online video game store to identify trends, patterns, and actionable insights. Supported the marketing team in optimizing campaign strategies by performing statistical analysis
