@@ -19,7 +19,7 @@ To find key insights which will help the marketing department of the online vide
 5.- *Conclusions:* document conclusions with recommendations for the online video games store.  
 
 ## ✅ Results
-After completing the project, the following insights were founded:
+After completing the project, the following insights were founded:  
 1.- Top 5 video games platforms of the users are: PS2, X360, PS3, Wii and DS. Although there are slight differences in the order depending on the region.  
 2.- All platforms experience a boom period of approximately 10 years, during which they reach their highest sales.  
 3.- Critic ratings influence sales more than user ratings.  
@@ -28,5 +28,5 @@ After completing the project, the following insights were founded:
 6.- User ratings on the "XOne" and "PC" platforms are different, as are the "Sports" and "Action" genres.  
 
 ## ▶️ How to run
-1.- Clone this repository: 
+1.- Clone this repository:  
 https://github.com/CesarLpzM/Video_games_sales_statistical_analysis.git
