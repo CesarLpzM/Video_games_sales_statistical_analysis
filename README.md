@@ -1,7 +1,7 @@
-# WEB app for video games sales statistical analysis
+# Video games sales statistical analysis
 
 ## 📉 Problem solving
-I developed an interactive web application that visualizes and analyzes U.S. vehicle sales data, allowing users to explore trends, compare models, and dynamically generate key insights.
+I identified patterns in reviews, genres, platforms, and historical sales to predict the success of online video games. This will support the planning of effective advertising campaigns.
 
 ## 🎯 Objective
 To develop an interactive web application which allows the users to explore data and generate key insights.
